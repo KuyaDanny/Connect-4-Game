@@ -15,11 +15,11 @@ Utilized Python and in the process of using Pygame for the graphics/visuals
 
 # Useful Websites
 
-{Make a list of websites that you found helpful in this project}
+{List of websites helpful in this project}
 * [Real Python](https://realpython.com/pygame-a-primer/)
 
 # Future Work
 
-{Make a list of things that you need to fix, improve, and add in the future.}
+{List of things that you need to fix, improve, and add in the future.}
 * Add more visuals
 * Implement custom row and column mode
